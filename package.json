@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/janiel14/base-typescript.git"
+    "url": "git+https://github.com/karlinhos987/ProjetoAPI-NodeJS.git"
   },
   "keywords": [
     "nodejs",
@@ -20,12 +20,12 @@
     "jest",
     "expressjs"
   ],
-  "author": "Janiel Oliveira",
+  "author": "Carlos Oliveira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/janiel14/base-typescript/issues"
+    "url": "https://github.com/karlinhos987/ProjetoAPI-NodeJS/issues"
   },
-  "homepage": "https://github.com/janiel14/base-typescript#readme",
+  "homepage": "https://github.com/karlinhos987/ProjetoAPI-NodeJS#readme",
   "devDependencies": {
     "@babel/preset-typescript": "^7.10.4",
     "@types/compression": "^1.7.0",
